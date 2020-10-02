@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4247d8f3-d16a-4ae9-8ca6-eac7726fc41f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/carbon-dating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/carbon-dating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/count-cats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/count-cats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dream-team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dream-team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extended-repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extended-repeater.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hanoi-tower.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanoi-tower.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursive-depth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursive-depth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple-chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple-chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vigenere-cipher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/vigenere-cipher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/what-season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-season.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iKCxjfedCTA2uv5HovVsTcndkN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4247d8f3-d16a-4ae9-8ca6-eac7726fc41f" name="Default Changelist" comment="" />
+      <created>1601647144079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601647144079</updated>
+      <workItem from="1601647145298" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
